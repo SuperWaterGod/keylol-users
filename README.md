@@ -1,0 +1,23 @@
+# keylol-users
+## 文件名说明
+***
+* keylol.py
+> 主程序
+* TEST.py
+> 测试所有函数是否正常
+* testCls.py
+> 测试清屏
+* testCsv.py
+> 测试csv文件读写
+* testError.py
+> 测试错误判断
+* testHeaders.py
+> 测试随机headers
+* testInactive.py
+> 测试不活跃用户判断
+* testLoad.py
+> 测试获取上次读取的最后一个UID
+* testOvertime.py
+> 测试超时连接
+* testTime.py
+> 测试显示系统时间
