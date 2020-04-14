@@ -1,5 +1,5 @@
-# keylol-users
-## 文件名说明
+# keylol-users  获取keylol门户网站用户数据
+## Python文件说明
 ***
 * keylol.py
 > 主程序
@@ -21,3 +21,23 @@
 > 测试超时连接
 * testTime.py
 > 测试显示系统时间
+## HTML文件说明
+***
+* error.html
+> losing用户
+* error1.py
+> null用户
+* error2.py
+> inactive用户
+* error3.py
+> inactive用户
+## ERROR用户说明
+***
+* incative
+> 用户不活跃，部分数据丢失
+* null
+> 用户太久没登录，系统自动归档
+* losing
+> 该uid不存在
+* overtime
+> 连接超时
